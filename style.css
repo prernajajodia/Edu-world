@@ -330,3 +330,31 @@ nav img {
     line-height: 22px;
     padding: 10px;
 }
+
+.testimonial-col {
+    flex-basis: 44%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+    background: #fff3f3;
+    cursor: pointer;
+    padding: 25px;
+    display: flex;
+}
+
+.testimonial-col img {
+    margin-left: 5px;
+    height: 40px;
+    margin-right: 30px;
+    border-radius: 30px;
+}
+
+.testimonial-col p {
+    padding: 0px;
+
+}
+
+.testimonials h3 {
+    margin-top: 15px;
+    text-align: left;
+}
